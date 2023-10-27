@@ -1,0 +1,145 @@
+.navbar {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+    align-items: center;
+    width: 100vw;
+    height: 10vh;
+    font-size: 30px;
+    font-weight: 600;
+    z-index: 1;
+    position: sticky;
+    transition: background-color 0.7s ease;
+}
+
+.navbar.scrolled {
+    background-color: rgb(0, 145, 255);
+    transition: background-color 0.7s ease;
+}
+
+.navbar-btn {
+    margin-right: 5vw;
+    display: inline-block;
+    list-style: none;
+}
+
+.navbar-btn:hover {
+    color: rgb(0, 145, 255);
+    cursor: pointer;
+}
+
+.navbar.scrolled .navbar-btn:hover {
+    color: black;
+    cursor: pointer;
+}
+
+.navigation {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.nav-btn {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    text-decoration: none;
+    margin-right: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.nav-btn:hover {
+    color: rgb(0, 145, 255);
+}
+
+.navbar.scrolled .nav-btn:hover {
+    color: black;
+    cursor: pointer;
+}
+
+.dropnav {
+    display: none;
+}
+
+@media screen and (max-width:701px) {
+    .navigation {
+        display: none;
+    }
+
+    .dropnav {
+        display: flex;
+        .nav-dropbtn {
+            background-color: black;
+            color: white;
+            padding: 14px;
+            font-size: 20px;
+            border: 2px solid white;
+            border-radius: 20px;
+            cursor: pointer;
+            width: 100px;
+            height: auto;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            font-weight: 700;
+            font-size: 30px;
+            margin-top: 30px;
+            margin-bottom: 20px;
+            margin-right: 10px;
+        }
+
+        .nav-dropbtn img{
+            width: 20px;
+            height: 20px;
+        }
+        
+        .nav-dropdown {
+            position: relative;
+            display: inline-block;
+            margin-right: 10px;
+        }
+        
+        .nav-dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            z-index: 1;
+            width: 100%;
+            margin-right: 10px;
+        }
+        
+        .nav-dropdown-content a {
+            color: black;
+            padding: 12px 10px;
+            font-size: 19px;
+            text-decoration: none;
+            display: inline-block;
+            margin-right: 10px;
+            width: 90px;
+            justify-content: center;
+        }
+        
+        .nav-dropdown-content a:hover {
+            background-color: rgb(0, 145, 255);
+            border-radius: 20px;
+        }
+        
+        .nav-dropdown:hover .nav-dropdown-content {
+            display: block;
+            background-color: white;
+            color: white;
+            margin-right: 10px;
+            border-radius: 20px;
+        }
+        
+        .nav-dropdown:hover .nav-dropbtn {
+            color: rgb(0, 145, 255);
+            /* background-color: white; */
+        }
+    }
+}

@@ -1,0 +1,150 @@
+.get-in-touch {
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin-right: 0px;
+    flex-direction: column;
+}
+
+.get-in-touch-heading {
+    display: flex;
+    align-items: baseline;
+    height: 4vw;
+    margin-top: -180px;
+}
+
+.get-in-touch-content {
+    width: 50vw;
+    height: 30vh;
+}
+
+.get-in-touch-content ul {
+    list-style: none;
+    margin-right: 10vw;
+}
+
+.send-msg {
+    width: 40vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 12vh;
+}
+
+.send-msg-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    height: 4vw;
+    margin-bottom: 10vh;
+}
+
+.inputs {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50vw;
+}
+
+.inputs .ne {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.inputs .name {
+    width: 17.7vw;
+    height: 7vh;
+    margin-right: 1vw;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 145, 255);
+    background-color: black;
+    color: white;
+    padding: 0 15px;
+    outline: rgb(0, 145, 255);
+    margin-bottom: 10px;
+}
+
+.inputs .email {
+    width: 17.7vw;
+    height: 7vh;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 145, 255);
+    background-color: black;
+    color: white;
+    padding: 0 15px;
+    outline: rgb(0, 145, 255);
+    margin-bottom: 10px;
+}
+
+.inputs .ns {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.inputs .number {
+    width: 17.7vw;
+    height: 7vh;
+    margin-right: 1vw;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 145, 255);
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 0 15px;
+    outline: rgb(0, 145, 255);
+    margin-bottom: 10px;
+}
+
+.inputs .subject {
+    width: 17.7vw;
+    height: 7vh;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 145, 255);
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 0 15px;
+    outline: rgb(0, 145, 255);
+    margin-bottom: 10px;
+}
+
+.inputs .details {
+    width: 40vw;
+    height: 15vh;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 145, 255);
+    background-color: black;
+    color: white;
+    padding: 0 15px;
+    outline: rgb(0, 145, 255);
+    margin-bottom: 10px;
+}
+
+.inputs .submit {
+    width: 18vw;
+    height: 10vh;
+    font-size: 20px;
+    border-radius: 30px;
+    border: 2px solid rgb(0, 145, 255);
+    background-color: rgb(0, 145, 255);
+    color: white;
+    padding: 0 15px;
+    margin-left: 1vw;
+    outline: rgb(0, 145, 255);
+    margin-bottom: 10px;
+    transition: all 0.5s ease;
+}
+
+.inputs .submit:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: all 0.5s ease;
+}

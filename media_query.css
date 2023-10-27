@@ -1,0 +1,1476 @@
+/* @media screen and (max-width:1300px) and (min-width:1001px) {
+    .btn-socialmedia {
+        height: 10vh;
+        width: 7vw;
+        font-size: 40px;
+    }
+
+    .inputs .name {
+        width: 17.7vw;
+    }
+
+    .inputs .email {
+        width: 17.7vw;
+    }
+
+    .inputs .number {
+        width: 17.7vw;
+    }
+
+    .inputs .subject {
+        width: 17.7vw;
+    }
+
+    .inputs .details {
+        width: 400px;
+    }
+
+    .footer {
+        height: 20vh;
+    }
+
+    .contactme {
+        height: 120vh;
+    }
+
+    .get-in-touch {
+        margin-top: -80vh;
+    }
+
+    .send-msg {
+        margin-top: -70vh;
+    }
+
+    .inputs .name {
+        font-size: 25px;
+    }
+
+    .inputs .email {
+        font-size: 25px;
+    }
+
+    .inputs .number {
+        font-size: 25px;
+    }
+
+    .inputs .subject {
+        font-size: 25px;
+    }
+
+    .inputs .details {
+        font-size: 25px;
+    }
+
+    .inputs .submit {
+        font-size: 25px;
+    }
+
+    .info .photo img {
+        width: 40vw;
+        height: 45vh;
+    }
+
+    .info .name1 {
+        margin-left: 15vw;
+        font-size: 43px;
+    }
+
+    .info .name2 {
+        margin-left: 15vw;
+        font-size: 43px;
+    }
+
+    .info .name3 {
+        margin-left: 15vw;
+        font-size: 43px;
+    }
+
+    .skills-content {
+        margin-top: 2vh;
+    }
+
+    .skill1 {
+        width: 16vw;
+    }
+
+    .skill2 {
+        width: 16vw;
+    }
+
+    .skill3 {
+        width: 16vw;
+    }
+
+    .skill4 {
+        width: 16vw;
+    }
+
+    .skill5 {
+        width: 16vw;
+    }
+} */
+
+/* @media screen and (max-width:1000px) and (min-width:801px) {
+    .btn-socialmedia {
+        height: 9vh;
+        width: 9vw;
+        font-size: 35px;
+    }
+
+    .socialmedia {
+        width: 100vw;
+    }
+
+    .footer {
+        height: 22vw;
+    }
+
+    .aboutme-content {
+        margin-left: 10px;
+    }
+
+    .inputs .submit {
+        width: 22vw;
+    }
+
+    .inputs .name {
+        width: 17vw;
+    }
+
+    .inputs .email {
+        width: 17vw;
+    }
+
+    .inputs .number {
+        width: 17vw;
+    }
+
+    .inputs .subject {
+        width: 17vw;
+    }
+
+    .inputs .details {
+        width: 39vw;
+    }
+
+    .footer {
+        height: 20vh;
+    }
+
+    .footer .text {
+        margin-left: 10px;
+    }
+
+    .contactme {
+        height: 120vh;
+    }
+
+    .contactme-hadding {
+        height: 50vh;
+    }
+
+    .get-in-touch {
+        margin-top: -80vh;
+    }
+
+    .send-msg {
+        margin-top: -50vh;
+    }
+
+    .inputs .name {
+        font-size: 30px;
+        width: 39vw;
+    }
+
+    .inputs .email {
+        font-size: 30px;
+        width: 39vw;
+    }
+
+    .inputs .number {
+        font-size: 30px;
+        width: 39vw;
+    }
+
+    .inputs .subject {
+        font-size: 30px;
+        width: 39vw;
+    }
+
+    .inputs .details {
+        font-size: 30px;
+    }
+
+    .inputs .submit {
+        font-size: 30px;
+        width: 30vw;
+    }
+
+    .info {
+        height: 90vh;
+    }
+
+    .info .photo {
+        width: 100vw;
+        height: 40vh;
+        justify-content: center;
+    }
+
+    .info .photo img {
+        width: 40vw;
+        height: 40vh;
+    }
+
+    .info .name1 {
+        font-size: 40px;
+        margin-left: 15vw;
+        width: 100vw;
+    }
+
+    .info .name2 {
+        margin-left: 15vw;
+        font-size: 40px;
+        width: 100vw;
+    }
+
+    .info .name3 {
+        margin-left: 15vw;
+        font-size: 40px;
+        width: 100vw;
+    }
+
+    .skills-content {
+        margin-top: 2vh;
+        justify-content: center;
+    }
+
+    .skill1 {
+        width: 24vw;
+        margin-right: 5vh;
+    }
+
+    .skill1:hover .skill1-additional-text {
+        font-size: 25px;
+    }
+
+    .skill1-progress-bar {
+        height: 15px;
+        top: 80%;
+    }
+
+    .skill2 {
+        width: 24vw;
+        margin-bottom: 5vh;
+        margin-right: 4vh;
+    }
+
+    .skill2:hover .skill2-additional-text {
+        font-size: 25px;
+    }
+
+    .skill2-progress-bar {
+        height: 15px;
+        top: 80%;
+    }
+
+    .skill3 {
+        width: 24vw;
+    }
+
+    .skill3:hover .skill3-additional-text {
+        font-size: 25px;
+    }
+
+    .skill3-progress-bar {
+        height: 15px;
+        top: 80%;
+    }
+
+    .skill4 {
+        width: 24vw;
+        margin-right: 5vh;
+    }
+
+    .skill4:hover .skill4-additional-text {
+        font-size: 25px;
+    }
+
+    .skill4-progress-bar {
+        height: 15px;
+        top: 80%;
+    }
+
+    .skill5 {
+        width: 24vw;
+    }
+
+    .skill5:hover .skill5-additional-text {
+        font-size: 25px;
+    }
+
+    .skill5-progress-bar {
+        height: 15px;
+        top: 80%;
+    }
+
+    .education-card-1 {
+        width: 80vw;
+        height: 20vh;
+        margin-bottom: 5vh;
+    }
+
+    .education-card-2 {
+        width: 80vw;
+        height: 20vh;
+        margin-bottom: 5vh;
+    }
+
+    .education-card-3 {
+        width: 80vw;
+        height: 20vh;
+    }
+} */
+
+/* @media screen and (max-width:800px) and (min-width:701px) {
+    .btn-socialmedia {
+        height: 8vh;
+        width: 6vw;
+    }
+
+    .footer {
+        height: 15vw;
+    }
+
+    .inputs .submit {
+        font-size: 20px;
+        width: 24vw;
+    }
+
+    .info .photo img {
+        width: 33vw;
+    }
+
+    .inputs .name {
+        width: 33vw;
+    }
+
+    .inputs .email {
+        width: 33vw;
+    }
+
+    .inputs .number {
+        width: 33vw;
+    }
+
+    .inputs .subject {
+        width: 33vw;
+    }
+
+    .inputs .details {
+        width: 33vw;
+    }
+
+    .inputs .ns {
+        flex-direction: column;
+    }
+
+    .inputs .ne {
+        flex-direction: column;
+    }
+
+    .get-in-touch {
+        margin-bottom: 25vh;
+    }
+} */
+
+/* @media screen and (max-width:700px) and (min-width:601px) {
+    .btn-socialmedia {
+        height: 8vh;
+        width: 7vw;
+    }
+
+    .footer {
+        height: 20vh;
+    }
+
+    .footer .text {
+        margin-left: 2vw;
+    }
+
+    .contactme {
+        margin-top: 10vh;
+    }
+
+    .send-msg {
+        margin-left: 5vw;
+    }
+
+    .inputs .name {
+        width: 33vw;
+    }
+
+    .inputs .email {
+        width: 33vw;
+    }
+
+    .inputs .number {
+        width: 33vw;
+    }
+
+    .inputs .subject {
+        width: 33vw;
+    }
+
+    .inputs .details {
+        width: 33vw;
+    }
+
+    .inputs .submit {
+        width: 37vw;
+    }
+
+    .get-in-touch {
+        margin-bottom: 23vh;
+    }
+
+    .info {
+        height: 100vh;
+        width: 80vw;
+    }
+
+    .info .photo img {
+        width: 35vw;
+        height: 38vh;
+    }
+
+    .info .photo {
+        justify-content: center;
+        width: 80vw;
+    }
+
+    .info .name1 {
+        display: flex;
+        width: 50vw;
+        justify-content: left;
+        flex-direction: row;
+    }
+
+    .info .name2 {
+        flex-direction: row;
+        justify-content: left;
+        width: 100vw;
+    }
+
+    .info .name3 {
+        flex-direction: row;
+        justify-content: left;
+        width: 100vw;
+    }
+
+    .skill1 {
+        height: 20vh;
+        width: 30vw;
+        margin-bottom: 5vw;
+        margin-right: 10vw;
+    }
+
+    .skill2 {
+        height: 20vh;
+        width: 30vw;
+        margin-bottom: 5vw;
+    }
+
+    .skill3 {
+        height: 20vh;
+        width: 30vw;
+        margin-bottom: 5vw;
+        margin-right: 10vw;
+    }
+
+    .skill4 {
+        height: 20vh;
+        width: 30vw;
+        margin-bottom: 5vw;
+    }
+
+    .skill5 {
+        height: 20vh;
+        width: 30vw;
+    }
+
+    .skills-content {
+        width: 100vw;
+        height: 80vh;
+        margin-top: 0px;
+    }
+
+    .skills-heading {
+        margin-top: 10vh;
+    }
+
+    .skills {
+        height: 100vh;
+    }
+
+    .navbar {
+        font-size: 1vh;
+        margin: 0px;
+    }
+
+} */
+
+/* @media screen and (max-width:600px) and (min-width:501px) {
+    .btn-socialmedia {
+        height: 7vh;
+        width: 8vw;
+    }
+
+    .socialmedia {
+        width: 40vw;
+    }
+
+    .get-in-touch {
+        width: 100vw;
+        height: 50vh;
+        margin-left: -100vw;
+        margin-top: 20vh;
+    }
+
+    .get-in-touch-content {
+        height: 38vh;
+        width: 100vw;
+    }
+
+    .get-in-touch-content ul {
+        flex-wrap: wrap;
+        width: 100vw;
+    }
+
+    .contactme {
+        width: 100vw;
+        height: 100vh;
+        flex-direction: column;
+        margin-bottom: 85vh;
+    }
+
+    .contactme-content {
+        margin-left: 53vw;
+        height: 50vh;
+    }
+
+    .send-msg {
+        margin-left: -100vw;
+        width: 100vw;
+        height: 50vh;
+        margin-top: 80vh;
+    }
+
+    .send-msg-heading {
+        justify-content: left;
+    }
+
+    .inputs {
+        width: 100vw;
+    }
+
+    .inputs .name {
+        width: 40vw;
+    }
+
+    .inputs .email {
+        width: 40vw;
+    }
+
+    .inputs .number {
+        width: 40vw;
+    }
+
+    .inputs .subject {
+        width: 40vw;
+    }
+
+    .inputs .details {
+        width: 88vw;
+    }
+
+    .inputs .submit {
+        font-size: 20px;
+        width: 33vw;
+    }
+
+    .footer {
+        height: 35vw;
+    }
+
+    .footer .text {
+        margin-left: 10vw;
+        margin-right: 1vw;
+        font-size: 4.8vw;
+    }
+
+    .info {
+        height: 100vh;
+        width: 80vw;
+    }
+
+    .info .photo img {
+        width: 45vw;
+        height: 38vh;
+    }
+
+    .info .photo {
+        justify-content: center;
+        width: 80vw;
+    }
+
+    .info .name1 {
+        display: flex;
+        width: 50vw;
+        justify-content: left;
+        flex-direction: row;
+    }
+
+    .info .name2 {
+        flex-direction: row;
+        justify-content: left;
+        width: 100vw;
+    }
+
+    .info .name2 .info-name {
+        width: 80vw;
+    }
+
+    .info .name3 {
+        flex-direction: row;
+        justify-content: left;
+        width: 100vw;
+    }
+
+    .skill1 {
+        height: 20vh;
+        width: 30vw;
+        margin-bottom: 5vw;
+        margin-right: 10vw;
+    }
+
+    .skill2 {
+        height: 20vh;
+        width: 30vw;
+        margin-bottom: 5vw;
+    }
+
+    .skill3 {
+        height: 20vh;
+        width: 30vw;
+        margin-bottom: 5vw;
+        margin-right: 10vw;
+    }
+
+    .skill4 {
+        height: 20vh;
+        width: 30vw;
+        margin-bottom: 5vw;
+    }
+
+    .skill5 {
+        height: 20vh;
+        width: 30vw;
+    }
+
+    .skills-content {
+        width: 100vw;
+        height: 80vh;
+        margin-top: 0px;
+    }
+
+    .skills-heading {
+        margin-top: 10vh;
+    }
+
+    .skills {
+        height: 100vh;
+    }
+
+    .navbar {
+        font-size: 5vh;
+        height: 15vh;
+        justify-content: center;
+        margin-right: 0px;
+    }
+
+    .home-btn {
+        margin-left: 5vw;
+        display: inline-block;
+    }
+
+    .aboutme-btn {
+        display: inline-block;
+    }
+
+    .education-btn {
+        display: inline-block;
+    }
+
+    .skills-btn {
+        display: inline-block;
+    }
+
+    .contactme-btn {
+        display: inline-block;
+    }
+
+    .education-card-1 {
+        width: 80vw;
+        height: 10vh;
+        margin-bottom: 5vh;
+    }
+
+    .education-card-2 {
+        width: 80vw;
+        height: 10vh;
+        margin-bottom: 5vh;
+    }
+
+    .education-card-3 {
+        width: 80vw;
+        height: 10vh;
+    }
+} */
+
+/* @media screen and (max-width:500px) and (min-width:401px) {
+    .btn-socialmedia {
+        height: 7vh;
+        width: 8vw;
+    }
+
+    .socialmedia {
+        width: 40vw;
+    }
+
+    .get-in-touch {
+        width: 100vw;
+        height: 50vh;
+        margin-left: -100vw;
+        margin-top: 20vh;
+    }
+
+    .get-in-touch-content {
+        height: 38vh;
+        width: 100vw;
+    }
+
+    .get-in-touch-content ul {
+        flex-wrap: wrap;
+        width: 100vw;
+    }
+
+    .contactme {
+        width: 100vw;
+        height: 100vh;
+        flex-direction: column;
+        margin-bottom: 85vh;
+    }
+
+    .contactme-content {
+        margin-left: 53vw;
+        height: 70vh;
+    }
+
+    .send-msg {
+        margin-left: -100vw;
+        width: 100vw;
+        height: 50vh;
+        margin-top: 90vh;
+        margin-bottom: 10vh;
+    }
+
+    .send-msg-heading {
+        justify-content: left;
+    }
+
+    .inputs .ne {
+        flex-direction: row;
+    }
+
+    .inputs .ns {
+        flex-direction: row;
+    }
+
+    .inputs .name {
+        width: 105vw;
+    }
+
+    .inputs .email {
+        width: 100vw;
+    }
+
+    .inputs .number {
+        width: 100vw;
+    }
+
+    .inputs .subject {
+        width: 100vw;
+    }
+
+    .inputs .details {
+        width: 245px;
+    }
+
+    .footer {
+        height: 42vw;
+    }
+
+    .footer .text {
+        margin-left: 10vw;
+        margin-right: 1vw;
+    }
+
+    .inputs .submit {
+        font-size: 20px;
+        width: 42vw;
+    }
+
+    .info {
+        height: 100vh;
+        width: 80vw;
+    }
+
+    .info .photo img {
+        width: 80vw;
+        height: 40vh;
+    }
+
+    .info .photo {
+        justify-content: center;
+        width: 80vw;
+    }
+
+    .info .name1 {
+        display: flex;
+        width: 80vw;
+        justify-content: left;
+        flex-direction: row;
+        font-size: 5vh;
+    }
+
+    .info .name2 {
+        flex-direction: row;
+        justify-content: left;
+        width: 100vw;
+        font-size: 5vh;
+    }
+
+    .info .name2 .info-name {
+        width: 80vw;
+    }
+
+    .info .name3 {
+        flex-direction: row;
+        justify-content: left;
+        width: 100vw;
+        font-size: 5vh;
+    }
+
+    .skill1 {
+        height: 20vh;
+        width: 30vw;
+        margin-bottom: 5vw;
+        margin-right: 10vw;
+    }
+
+    .skill2 {
+        height: 20vh;
+        width: 30vw;
+        margin-bottom: 5vw;
+    }
+
+    .skill3 {
+        height: 20vh;
+        width: 30vw;
+        margin-bottom: 5vw;
+        margin-right: 10vw;
+    }
+
+    .skill4 {
+        height: 20vh;
+        width: 30vw;
+        margin-bottom: 5vw;
+    }
+
+    .skill5 {
+        height: 20vh;
+        width: 30vw;
+    }
+
+    .skills-content {
+        width: 100vw;
+        height: 80vh;
+        margin-top: 0px;
+    }
+
+    .skills-heading {
+        margin-top: 10vh;
+    }
+
+    .skills {
+        height: 110vh;
+    }
+
+    .navbar {
+        font-size: 5vh;
+        height: 17vh;
+        justify-content: space-between;
+        margin-right: 0px;
+    }
+
+    .home-btn {
+        display: inline-block;
+    }
+
+    .aboutme-btn {
+        display: inline-block;
+    }
+
+    .education-btn {
+        display: inline-block;
+    }
+
+    .skills-btn {
+        display: inline-block;
+    }
+
+    .contactme-btn {
+        display: inline-block;
+    }
+
+    .education-card-1 {
+        width: 80vw;
+        height: 18vh;
+        margin-bottom: 5vh;
+    }
+
+    .education-card-2 {
+        width: 80vw;
+        height: 18vh;
+        margin-bottom: 5vh;
+    }
+
+    .education-card-3 {
+        width: 80vw;
+        height: 18vh;
+    }
+} */
+
+/* @media screen and (max-width:400px) and (min-width:301px) {
+    .btn-socialmedia {
+        height: 6vh;
+        width: 10vw;
+    }
+
+    .socialmedia {
+        width: 50vw;
+        justify-content: space-evenly;
+    }
+
+    .get-in-touch {
+        width: 100vw;
+        height: 50vh;
+        margin-left: -100vw;
+        margin-top: 20vh;
+    }
+
+    .get-in-touch-content {
+        height: 38vh;
+        width: 100vw;
+        margin-bottom: 10vh;
+    }
+
+    .get-in-touch-content ul {
+        flex-wrap: wrap;
+        width: 100vw;
+    }
+
+    .contactme {
+        width: 100vw;
+        height: 100vh;
+        flex-direction: column;
+        margin-bottom: 85vh;
+        margin-top: 28vh;
+    }
+
+    .contactme-content {
+        margin-left: 53vw;
+        height: 70vh;
+    }
+
+    .send-msg {
+        margin-left: -100vw;
+        width: 100vw;
+        margin-top: 110vh;
+    }
+
+    .send-msg-heading {
+        justify-content: left;
+        margin-top: 20vh;
+    }
+
+    .send-msg-content {
+        height: 180vh;
+        margin-bottom: 10vh;
+    }
+
+    .inputs .ne {
+        flex-direction: row;
+    }
+
+    .inputs .ns {
+        flex-direction: row;
+    }
+
+    .inputs .name {
+        width: 105vw;
+    }
+
+    .inputs .email {
+        width: 100vw;
+    }
+
+    .inputs .number {
+        width: 100vw;
+    }
+
+    .inputs .subject {
+        width: 100vw;
+    }
+
+    .inputs .details {
+        width: 245px;
+    }
+
+    .footer {
+        height: 70vw;
+    }
+
+    .footer .text {
+        margin-left: 10vw;
+        margin-right: 1vw;
+    }
+
+    .inputs .submit {
+        font-size: 20px;
+        width: 52vw;
+    }
+
+    .info {
+        height: 100vh;
+        width: 80vw;
+    }
+
+    .info .photo img {
+        width: 65vw;
+        height: 35vh;
+    }
+
+    .info .photo {
+        justify-content: center;
+        width: 80vw;
+    }
+
+    .info .name1 {
+        display: flex;
+        width: 50vw;
+        margin-left: -5vw;
+        font-size: 25px;
+        justify-content: left;
+        flex-direction: row;
+    }
+
+    .info .name2 {
+        flex-direction: row;
+        justify-content: left;
+        width: 150vw;
+        margin-left: -5vw;
+        font-size: 27px;
+    }
+
+    .info .name2 .info-name {
+        width: 120vw;
+    }
+
+    .info .name3 {
+        flex-direction: row;
+        justify-content: left;
+        width: 100vw;
+        margin-left: -5vw;
+        font-size: 25px;
+    }
+
+    .skill1 {
+        height: 20vh;
+        width: 50vw;
+        margin-bottom: 5vw;
+    }
+
+    .skill2 {
+        height: 20vh;
+        width: 50vw;
+        margin-bottom: 5vw;
+    }
+
+    .skill3 {
+        height: 20vh;
+        width: 50vw;
+        margin-bottom: 5vw;
+    }
+
+    .skill4 {
+        height: 20vh;
+        width: 50vw;
+        margin-bottom: 5vw;
+    }
+
+    .skill5 {
+        height: 20vh;
+        width: 50vw;
+        margin-right: 3vw;
+    }
+
+    .skills-content {
+        width: 100vw;
+        height: 100vh;
+        margin-top: 0px;
+    }
+
+    .skills-heading {
+        margin-top: 10vh;
+    }
+
+    .skills {
+        height: 110vh;
+    }
+
+    .navbar {
+        font-size: 5vh;
+        height: 17vh;
+        justify-content: space-between;
+        margin-right: 0px;
+    }
+
+    .home-btn {
+        display: inline-block;
+    }
+
+    .aboutme-btn {
+        display: inline-block;
+    }
+
+    .education-btn {
+        display: inline-block;
+    }
+
+    .skills-btn {
+        display: inline-block;
+    }
+
+    .contactme-btn {
+        display: inline-block;
+    }
+
+    .aboutme-hadding {
+        font-size: 6.5vh;
+        margin-top: -10vh;
+    }
+
+    .education-hadding {
+        font-size: 6.5vh;
+    }
+
+    .skills-hadding {
+        font-size: 6.5vh;
+    }
+
+    .contactme-hadding {
+        font-size: 6.5vh;
+    }
+
+    .education-card-1 {
+        width: 80vw;
+        height: 20vh;
+        margin-bottom: 5vh;
+    }
+
+    .education-card-2 {
+        width: 80vw;
+        height: 18vh;
+        margin-bottom: 5vh;
+    }
+
+    .education-card-3 {
+        width: 80vw;
+        height: 18vh;
+    }
+} */
+
+/* @media screen and (max-width:300px) and (min-width:201px) {
+    .btn-socialmedia {
+        height: 6vh;
+        width: 20vw;
+    }
+
+    .socialmedia {
+        width: 100vw;
+        justify-content: space-evenly;
+    }
+
+    .get-in-touch {
+        width: 100vw;
+        height: 50vh;
+        margin-left: -100vw;
+        margin-top: 20vh;
+    }
+
+    .get-in-touch-content {
+        height: 38vh;
+        width: 100vw;
+        margin-bottom: 10vh;
+    }
+
+    .get-in-touch-content ul {
+        flex-wrap: wrap;
+        width: 100vw;
+    }
+
+    .contactme {
+        width: 100vw;
+        height: 200vh;
+        flex-direction: column;
+        margin-bottom: 85vh;
+        margin-top: -28vh;
+    }
+
+    .contactme-content {
+        margin-left: 53vw;
+        height: 70vh;
+    }
+
+    .send-msg {
+        margin-left: -100vw;
+        width: 100vw;
+        margin-top: 140vh;
+    }
+
+    .send-msg-heading {
+        justify-content: left;
+        margin-top: 20vh;
+        margin-bottom: 20vh;
+    }
+
+    .send-msg-content {
+        height: 380vh;
+    }
+
+    .inputs .ne {
+        flex-direction: row;
+    }
+
+    .inputs .ns {
+        flex-direction: row;
+    }
+
+    .inputs .name {
+        width: 80vw;
+    }
+
+    .inputs .email {
+        width: 80vw;
+    }
+
+    .inputs .number {
+        width: 80vw;
+    }
+
+    .inputs .subject {
+        width: 80vw;
+    }
+
+    .inputs .details {
+        width: 173px;
+    }
+
+    .footer {
+        height: 150vw;
+    }
+
+    .footer .text {
+        margin-left: 10vw;
+        margin-right: 1vw;
+        height: 10vh;
+    }
+
+    .inputs .submit {
+        font-size: 20px;
+        width: 80vw;
+    }
+
+    .info {
+        height: 100vh;
+        width: 80vw;
+    }
+
+    .info .photo img {
+        width: 85vw;
+        height: 35vh;
+    }
+
+    .info .photo {
+        justify-content: center;
+        width: 80vw;
+    }
+
+    .info .name1 {
+        display: flex;
+        width: 60vw;
+        margin-left: -5vw;
+        font-size: 25px;
+        justify-content: left;
+        flex-direction: row;
+    }
+
+    .info .name2 {
+        flex-direction: column;
+        justify-content: left;
+        width: 150vw;
+        margin-left: -5vw;
+        font-size: 27px;
+    }
+
+    .info-text {
+        width: 100vw;
+        height: 50vh;
+    }
+
+    .info .name2 .info-name {
+        width: 100vw;
+        margin-left: -2vw;
+    }
+
+    .info .name3 {
+        flex-direction: column;
+        justify-content: left;
+        width: 100vw;
+        margin-left: -5vw;
+        font-size: 25px;
+    }
+
+    .info .name2 .typing {
+        width: 10vw;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .skill1 {
+        height: 20vh;
+        width: 70vw;
+        margin-bottom: 5vw;
+    }
+
+    .skill2 {
+        height: 20vh;
+        width: 70vw;
+        margin-bottom: 5vw;
+    }
+
+    .skill3 {
+        height: 20vh;
+        width: 70vw;
+        margin-bottom: 5vw;
+    }
+
+    .skill4 {
+        height: 20vh;
+        width: 70vw;
+        margin-bottom: 5vw;
+    }
+
+    .skill5 {
+        height: 20vh;
+        width: 70vw;
+        margin-right: 3vw;
+    }
+
+    .skills-content {
+        width: 100vw;
+        height: 100vh;
+        margin-top: 0px;
+    }
+
+    .skills-heading {
+        margin-top: 10vh;
+    }
+
+    .skills {
+        height: 110vh;
+    }
+
+    .navbar {
+        font-size: 4vh;
+        height: 25vh;
+        justify-content: space-between;
+        margin-right: 0px;
+    }
+
+    .home-btn {
+        display: inline-block;
+    }
+
+    .aboutme-btn {
+        display: inline-block;
+    }
+
+    .education-btn {
+        display: inline-block;
+    }
+
+    .skills-btn {
+        display: inline-block;
+    }
+
+    .contactme-btn {
+        display: inline-block;
+    }
+
+    .aboutme-hadding {
+        font-size: 5.5vh;
+        margin-top: 10vh;
+    }
+
+    .education-hadding {
+        font-size: 5.5vh;
+        text-align: center;
+    }
+
+    .skills-hadding {
+        font-size: 5.5vh;
+    }
+
+    .contactme-hadding {
+        font-size: 5.5vh;
+    }
+
+    .education-card-1 {
+        width: 80vw;
+        height: 40vh;
+        margin-bottom: 5vh;
+    }
+
+    .education-card-2 {
+        width: 80vw;
+        height: 38vh;
+        margin-bottom: 5vh;
+    }
+
+    .education-card-3 {
+        width: 80vw;
+        height: 38vh;
+    }
+} */

@@ -1,0 +1,61 @@
+.education-card-1 {
+    width: 15vw;
+    text-align: center;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    padding: 4vw;
+    transition: all 0.7s ease;
+}
+.education-card-2 {
+    width: 15vw;
+    height: 20vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    padding: 4vw;
+    transition: all 0.7s ease;
+}
+.education-card-3 {
+    width: 15vw;
+    height: 20vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    padding: 4vw;
+    transition: all 0.7s ease;
+}
+.education-content {
+    display: flex;
+    width: 100vw;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.education-card-1:hover {
+    transform: scale(1.1);
+    transition: all 0.7s ease;
+    cursor: pointer;
+    background-color: rgb(0, 145, 255);
+}
+.education-card-2:hover {
+    transform: scale(1.1);
+    transition: all 0.7s ease;
+    cursor: pointer;
+    background-color: rgb(0, 145, 255);
+}
+.education-card-3:hover {
+    transform: scale(1.1);
+    transition: all 0.7s ease;
+    cursor: pointer;
+    background-color: rgb(0, 145, 255);
+}

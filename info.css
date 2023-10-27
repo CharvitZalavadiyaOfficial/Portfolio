@@ -1,0 +1,62 @@
+.info .photo {
+    display: flex;
+    justify-content: left;
+    height: 40vh;
+    width: 30vw;
+    margin-top: 3vh;
+    margin-left: 5vw;
+}
+
+.info .photo img {
+    object-fit: cover;
+    border-radius: 50%;
+    height: 50vh;
+    width: 25vw;
+    margin-right: 5vw;
+}
+
+.info .name1 {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    width: 50vw;
+    height: auto;
+    font-weight: 600;
+    justify-content: left;
+    margin-top: 10vh;
+}
+
+.info .name2 {
+    color: white;
+    font-size: 30px;
+    display: inline-flex;
+    margin-top: 5vh;
+    flex-direction: row;
+    width: 50vw;
+    height: auto;
+    justify-content: left;
+    font-weight: 600;
+}
+
+.info .name2 .info-name {
+    color: rgb(0, 145, 255);
+    display: inline-flex;
+    width: 50vw;
+    margin-left: 7px;
+}
+
+.info .name3 {
+    color: white;
+    font-size: 30px;
+    display: flex;
+    width: 50vw;
+    justify-content: left;
+    margin-top: 5vh;
+    font-weight: 600;
+    /* margin-right: 10vw; */
+}
+
+.info .name3 .typing {
+    color: rgb(0, 145, 255);
+}

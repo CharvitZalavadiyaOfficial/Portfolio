@@ -1,0 +1,133 @@
+@media screen and (min-width:901px) and (max-width:1000px) {
+    .info .photo img {
+        width: 300px;
+    }
+
+    .education-card-1 {
+        width: 200px;
+    }
+
+    .education-card-2 {
+        width: 200px;
+    }
+
+    .education-card-3 {
+        width: 200px;
+    }
+
+    .skills-content {
+        height: auto;
+    }
+
+    .softskills-content {
+        width: 100vw;
+        margin-left: 40px;
+        font-size: 22px;
+    }
+
+    .ss1 {
+        width: 16vw;
+    }
+
+    .ss2 {
+        width: 16vw;
+    }
+
+    .ss3 {
+        width: 16vw;
+    }
+
+    .ss4 {
+        width: 16vw;
+    }
+
+    .ss5 {
+        width: 16vw;
+    }
+
+    .ss6 {
+        width: 16vw;
+    }
+
+    .ss7 {
+        width: 16vw;
+    }
+
+    .ss8 {
+        width: 16vw;
+    }
+
+    .ss9 {
+        width: 16vw;
+    }
+
+    .ss10 {
+        width: 16vw;
+    }
+
+    .hardskills-content {
+        width: 100vw;
+        margin-left: 40px;
+        font-size: 22px;
+    }
+
+    .hs1 {
+        width: 16vw;
+    }
+
+    .hs2 {
+        width: 16vw;
+    }
+
+    .hs3 {
+        width: 16vw;
+    }
+
+    .hs4 {
+        width: 16vw;
+    }
+
+    .hs5 {
+        width: 16vw;
+    }
+
+    .languages-content {
+        width: 100vw;
+        margin-left: 40px;
+        font-size: 22px;
+    }
+
+    .ls1 {
+        width: 16vw;
+    }
+
+    .ls2 {
+        width: 16vw;
+    }
+
+    .ls3 {
+        width: 16vw;
+    }
+
+    .ls4 {
+        width: 16vw;
+    }
+
+    .ls5 {
+        width: 16vw;
+    }
+
+    .footer {
+        height: 25vh;
+        margin-top: 10vh;
+    }
+
+    .btn-socialmedia {
+        width: 70px;
+        height: 70px;
+    }
+
+    .socialmedia {
+        width: 100vw;
+    }
+}

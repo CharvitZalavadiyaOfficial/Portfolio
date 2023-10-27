@@ -1,0 +1,1136 @@
+.softskills-heading {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 10vh;
+    margin-top: -10vh;
+}
+
+.softskills-content {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 75px;
+}
+
+
+
+/* ss1 */
+
+
+
+
+.ss1 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+    margin-bottom: 5vh;
+}
+
+.ss1 .ss1-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ss1 .ss1-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ss1:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+/* ss2 */
+
+
+
+.ss2 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.ss2 .ss2-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ss2 .ss2-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ss2:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+/* ss3 */
+
+
+
+.ss3 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.ss3 .ss3-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ss3 .ss3-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ss3:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+/* ss4 */
+
+
+
+.ss4 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.ss4 .ss4-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ss4 .ss4-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ss4:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+/* ss5 */
+
+
+
+.ss5 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.ss5 .ss5-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ss5 .ss5-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ss5:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+/* ss6 */
+
+
+
+.ss6 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.ss6 .ss6-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ss6 .ss6-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ss6:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+/* ss7 */
+
+
+
+.ss7 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.ss7 .ss7-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ss7 .ss7-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ss7:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+/* ss8 */
+
+
+
+.ss8 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.ss8 .ss8-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ss8 .ss8-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ss8:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+/* ss9 */
+
+
+
+.ss9 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.ss9 .ss9-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ss9 .ss9-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ss9:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+/* ss10 */
+
+
+
+.ss10 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.ss10 .ss10-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ss10 .ss10-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ss10:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+
+
+
+
+
+
+.hardskills-heading {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 10vh;
+    margin-top: 10vh;
+    margin-left: 30px;
+}
+
+.hardskills-content {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+
+
+
+/* hs1 */
+
+
+
+
+.hs1 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.hs1 .hs1-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.hs1 .hs1-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.hs1:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+/* hs2 */
+
+
+
+.hs2 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.hs2 .hs2-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.hs2 .hs2-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.hs2:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+/* hs3 */
+
+
+
+.hs3 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.hs3 .hs3-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.hs3 .hs3-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.hs3:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+/* hs4 */
+
+
+
+.hs4 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.hs4 .hs4-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.hs4 .hs4-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.hs4:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+/* hs5 */
+
+
+
+.hs5 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.hs5 .hs5-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.hs5 .hs5-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.hs5:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+
+
+
+
+
+
+.languages-heading {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 10vh;
+    margin-top: 10vh;
+}
+
+.languages-content {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+
+
+
+/* ls1 */
+
+
+
+.ls1 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.ls1 .html-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ls1 .html-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ls1:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+.ls1:hover .ls1-additional-text {
+    position: absolute;
+    left: 115%;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    transition: opacity 0.3s ease;
+    opacity: 1;
+}
+
+.ls1-additional-text {
+    opacity: 0;
+    margin-top: -10px;
+}
+
+.ls1-progress-bar {
+    position: absolute;
+    margin-top: 100px;
+    left: 20px;
+    transform: translateY(-50%);
+    width: 60%;
+    height: 15px;
+    transition: opacity 0.3s ease;
+    opacity: 0;
+}
+
+.ls1:hover .ls1-progress-bar {
+    opacity: 1;
+}
+
+.ls1-progress {
+    height: 100%;
+    background-color: white;
+    transition: width 0.7s ease;
+    width: 0;
+}
+
+.ls1:hover .ls1-progress {
+    width: 85%;
+}
+
+
+
+/* ls2 */
+
+
+
+.ls2 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.ls2 .css-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ls2 .css-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ls2:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+.ls2:hover .ls2-additional-text {
+    position: absolute;
+    left: 115%;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    transition: opacity 0.3s ease;
+    opacity: 1;
+}
+
+.ls2-additional-text {
+    opacity: 0;
+    margin-top: -10px;
+}
+
+.ls2-progress-bar {
+    position: absolute;
+    margin-top: 100px;
+    left: 20px;
+    transform: translateY(-50%);
+    width: 60%;
+    height: 15px;
+    transition: opacity 0.3s ease;
+    opacity: 0;
+}
+
+.ls2:hover .ls2-progress-bar {
+    opacity: 1;
+}
+
+.ls2-progress {
+    height: 100%;
+    background-color: white;
+    transition: width 0.7s ease;
+    width: 0;
+}
+
+.ls2:hover .ls2-progress {
+    width: 70%;
+}
+
+
+
+/* ls3 */
+
+
+
+.ls3 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.ls3 .js-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ls3 .js-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ls3:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+.ls3:hover .ls3-additional-text {
+    position: absolute;
+    left: 115%;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    transition: opacity 0.3s ease;
+    opacity: 1;
+}
+
+.ls3-additional-text {
+    opacity: 0;
+    margin-top: -10px;
+}
+
+.ls3-progress-bar {
+    position: absolute;
+    margin-top: 100px;
+    left: 20px;
+    transform: translateY(-50%);
+    width: 60%;
+    height: 15px;
+    transition: opacity 0.3s ease;
+    opacity: 0;
+}
+
+.ls3:hover .ls3-progress-bar {
+    opacity: 1;
+}
+
+.ls3-progress {
+    height: 100%;
+    background-color: white;
+    transition: width 0.7s ease;
+    width: 0;
+}
+
+.ls3:hover .ls3-progress {
+    width: 50%;
+}
+
+
+
+/* ls4 */
+
+
+
+.ls4 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.ls4 .c-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ls4 .c-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ls4:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+.ls4:hover .ls4-additional-text {
+    position: absolute;
+    left: 115%;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    transition: opacity 0.3s ease;
+    opacity: 1;
+}
+
+.ls4-additional-text {
+    opacity: 0;
+    margin-top: -10px;
+}
+
+.ls4-progress-bar {
+    position: absolute;
+    margin-top: 100px;
+    left: 20px;
+    transform: translateY(-50%);
+    width: 60%;
+    height: 15px;
+    transition: opacity 0.3s ease;
+    opacity: 0;
+}
+
+.ls4:hover .ls4-progress-bar {
+    opacity: 1;
+}
+
+.ls4-progress {
+    height: 100%;
+    background-color: white;
+    transition: width 0.7s ease;
+    width: 0;
+}
+
+.ls4:hover .ls4-progress {
+    width: 70%;
+}
+
+
+
+/* ls5 */
+
+
+
+.ls5 {
+    position: relative;
+    width: 15vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 145, 255);
+    border-radius: 10px;
+    margin-right: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.7s ease;
+}
+
+.ls5 .java-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+.ls5 .java-logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.ls5:hover {
+    background-color: rgb(0, 145, 255);
+    color: white;
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+.ls5:hover .ls5-additional-text {
+    position: absolute;
+    left: 115%;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    transition: opacity 0.3s ease;
+    opacity: 1;
+}
+
+.ls5-additional-text {
+    opacity: 0;
+    margin-top: -10px;
+}
+
+.ls5-progress-bar {
+    position: absolute;
+    margin-top: 100px;
+    left: 20px;
+    transform: translateY(-50%);
+    width: 60%;
+    height: 15px;
+    transition: opacity 0.3s ease;
+    opacity: 0;
+}
+
+.ls5:hover .ls5-progress-bar {
+    opacity: 1;
+}
+
+.ls5-progress {
+    height: 100%;
+    background-color: white;
+    transition: width 0.7s ease;
+    width: 0;
+}
+
+.ls5:hover .ls5-progress {
+    width: 40%;
+}

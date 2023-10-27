@@ -1,0 +1,134 @@
+@media screen and (min-width:1101px) and (max-width:1200px) {
+    .info .photo img {
+        width: 300px;
+    }
+
+    .education-card-1 {
+        width: 200px;
+    }
+
+    .education-card-2 {
+        width: 200px;
+    }
+
+    .education-card-3 {
+        width: 200px;
+    }
+
+    .skills-content {
+        height: auto;
+    }
+
+    .softskills-content {
+        margin-left: 40px;
+    }
+
+    .ss1 {
+        width: 16vw;
+        margin-right: 30px;
+    }
+
+    .ss2 {
+        width: 16vw;
+        margin-right: 30px;
+    }
+
+    .ss3 {
+        width: 16vw;
+    }
+
+    .ss4 {
+        width: 16vw;
+        margin-bottom: 30px;
+        margin-right: 30px;
+    }
+
+    .ss5 {
+        width: 16vw;
+        margin-right: 30px;
+    }
+
+    .ss6 {
+        width: 16vw;
+    }
+
+    .ss7 {
+        width: 16vw;
+        margin-right: 30px;
+    }
+
+    .ss8 {
+        width: 16vw;
+        margin-bottom: 30px;
+        margin-right: 30px;
+    }
+
+    .ss9 {
+        width: 16vw;
+    }
+
+    .ss10 {
+        width: 16vw;
+    }
+
+    .hardskills-content {
+        margin-left: 40px;
+    }
+
+    .hs1 {
+        width: 16vw;
+        margin-bottom: 30px;
+        margin-right: 30px;
+    }
+
+    .hs2 {
+        width: 16vw;
+        margin-right: 30px;
+    }
+
+    .hs3 {
+        width: 16vw;
+    }
+
+    .hs4 {
+        width: 16vw;
+        margin-right: 30px;
+    }
+
+    .hs5 {
+        width: 16vw;
+    }
+
+    .languages-content {
+        margin-left: 40px;
+    }
+
+    .ls1 {
+        width: 16vw;
+        margin-bottom: 30px;
+        margin-right: 30px;
+    }
+
+    .ls2 {
+        width: 16vw;
+        margin-right: 30px;
+    }
+
+    .ls3 {
+        width: 16vw;
+    }
+
+    .ls4 {
+        width: 16vw;
+        margin-right: 30px;
+    }
+
+    .ls5 {
+        width: 16vw;
+    }
+
+    .footer {
+        height: 20vh;
+        margin-top: 10vh;
+    }
+}
